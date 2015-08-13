@@ -1,0 +1,18 @@
+.top_nav ul {
+	padding-top: 10px;
+	padding-right: 35px;
+}
+
+.search_input {
+	text-align: center;
+}
+
+.logo {
+	text-align: center;
+}
+
+.search_input {
+	font-size: 11px;
+	font-weight: bold;
+	font-family: arial, sans-serif;
+}
